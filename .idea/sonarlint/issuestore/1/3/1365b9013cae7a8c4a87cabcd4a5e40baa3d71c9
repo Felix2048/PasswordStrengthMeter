@@ -1,0 +1,36 @@
+
+… squid:ForLoopCounterChangedCheck©"XRefactor the code in order to not assign to this loop counter from within the loop body.(íùÜæ
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+bsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(€É÷
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ŠÌô¢
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üµ¦þÿÿÿÿ
+N
+squid:S106C"9Replace this use of System.out or System.err by a logger.(µåï
+asquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Èè¿
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Šêí´
+hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(¬š™Áüÿÿÿÿ
+gsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Žþ›˜ÿÿÿÿÿ
+T
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ò¿„êùÿÿÿÿ
+O
+squid:S106i"9Replace this use of System.out or System.err by a logger.(æÂöŽ
+bsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(»øŸý
+T
+squid:S106_"9Replace this use of System.out or System.err by a logger.(òãÑ£üÿÿÿÿ
+Š squid:ForLoopCounterChangedChecká"XRefactor the code in order to not assign to this loop counter from within the loop body.(š÷»šÿÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰‰íÇ
+bsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ñ±™Œ
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(“¼…Õ
+=squid:S11724"&Remove these unused method parameters.(©²©ì
+Š squid:ForLoopCounterChangedCheck–"XRefactor the code in order to not assign to this loop counter from within the loop body.( ¨êÜþÿÿÿÿ
+T
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ãá†ïûÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(­ÑÉ‘
+… squid:ForLoopCounterChangedCheck»"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚ÿÜ›
+Š squid:ForLoopCounterChangedCheckÍ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ããÊøÿÿÿÿ
+T
+squid:S106o"9Replace this use of System.out or System.err by a logger.( úæÌÿÿÿÿÿ
+O
+squid:S106h"9Replace this use of System.out or System.err by a logger.(åÙÐ

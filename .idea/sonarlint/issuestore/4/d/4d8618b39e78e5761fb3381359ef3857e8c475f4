@@ -1,0 +1,33 @@
+
+… squid:ForLoopCounterChangedCheckÀ"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚ÿÜ›
+isquid:S20951"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üÛé„ÿÿÿÿÿ
+ksquid:S20952"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(©ˆúŒüÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckö"XRefactor the code in order to not assign to this loop counter from within the loop body.(š÷»šÿÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(„ÁÔ­ûÿÿÿÿ
+gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(µ¹¡Êûÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÚ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ããÊøÿÿÿÿ
+gsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ºŞˆüÿÿÿÿ
+csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ÂÂŸø
+… squid:ForLoopCounterChangedCheck¦"XRefactor the code in order to not assign to this loop counter from within the loop body.(íùÜæ
+csquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ÂÂŸø
+gsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(‚˜µúÿÿÿÿ
+osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ó£Íşÿÿÿÿ
+O
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Óõ“˜
+?squid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ÂÂŸø
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Éáğè
+csquid:S20953"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ŠËÌî
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ÂÂŸø
+gsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(Ğ¦×ûÿÿÿÿ
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(íà•Ó
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ç‚ª
+Š squid:ForLoopCounterChangedCheckŒ"XRefactor the code in order to not assign to this loop counter from within the loop body.( ¨êÜşÿÿÿÿ
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(¸£Ûòûÿÿÿÿ
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Æ„ñ±ıÿÿÿÿ
+csquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(ÂÂŸø
+gsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(­Í€³üÿÿÿÿ
+bsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(¬”ƒ‹

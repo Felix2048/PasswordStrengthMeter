@@ -1,0 +1,9 @@
+
+lsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+Ssquid:UselessImportCheck	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+ksquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÀÀóÞ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(éºÙñøÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(œ¡¯‘úÿÿÿÿ
